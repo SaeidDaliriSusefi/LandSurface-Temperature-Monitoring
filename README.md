@@ -6,17 +6,17 @@ This repository contains a Python-based workflow to analyze long-term land surfa
 
 ### Italy (1980-2024):
 
-#### Yearly Average Air Temperature:
+#### Yearly Average Land Surface Temperature:
 ![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/e8d4c420dd2327257f10d438056b550cf775c372/Images/Yearly%20Average%20Land%20Surface%20Temperature%20Italy.png)
 
 
 
-#### Trend Chart Average Air Temperature over the Italy:
+#### Trend Chart Average Land Surface Temperature over the Italy:
 ![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Trend%20Chart%20Average%20Land%20Surface%20Temperature%20over%20the%20Italy.png)
 
 
 
-#### Long Term Average Air Temperature:
+#### Long Term Average Land Surface Temperature:
 ![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Long%20Term%20Average%20Land%20Surface%20Temperature%20Italy.png)
 
 #### Anomaly Yearly Average Land Surface Temperature Respect to Long Term Average:

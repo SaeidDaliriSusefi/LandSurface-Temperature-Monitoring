@@ -4,58 +4,30 @@ This repository contains a Python-based workflow to analyze long-term land surfa
 
 ## 📸 Example Outputs
 
-### Italy (1990-2024):
+### Italy (1980-2024):
 
 #### Yearly Average Air Temperature:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/e8d4c420dd2327257f10d438056b550cf775c372/Images/Yearly%20Average%20Land%20Surface%20Temperature%20Italy.png)
 
 
 
 #### Trend Chart Average Air Temperature over the Italy:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Trend%20Chart%20Average%20Land%20Surface%20Temperature%20over%20the%20Italy.png)
 
 
 
 #### Long Term Average Air Temperature:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Long%20Term%20Average%20Land%20Surface%20Temperature%20Italy.png)
 
 #### Anomaly Yearly Average Land Surface Temperature Respect to Long Term Average:
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/df948f83034f856a2a4d09028ebd1ca66f8ecf53/Images/Anomaly%20Yearly%20Average%20Land%20Surface%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Anomaly%20Yearly%20Average%20Land%20Surface%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.png)
 
 
-### Anomaly Average Air Temperature Respect to Average Yearly 1990: 
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/df948f83034f856a2a4d09028ebd1ca66f8ecf53/Images/Anomaly%20Average%20Land%20Surface%20Temperature%20Respect%20to%20Average%20Yearly%201990%20Italy.png)
-
-### Air Temperature Trend:
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/df948f83034f856a2a4d09028ebd1ca66f8ecf53/Images/Trend%20Italy.png)
-
-
-
-#
-### Iran (1990-2024):
-
-#### Yearly Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/f6c0735804b906c01acc01152ed0ea47b223d6c8/Images/Yearly%20Average%20Land%20Surface%20Temperature%20Iran.png)
-
-
-#### Trend Chart Average Air Temperature over the Italy:
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/f6c0735804b906c01acc01152ed0ea47b223d6c8/Images/Trend%20Chart%20Average%20Land%20Surface%20Temperature%20over%20the%20Iran.png)
-
-
-#### Long Term Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/f6c0735804b906c01acc01152ed0ea47b223d6c8/Images/Long%20Term%20Average%20Land%20Surface%20Temperature%20Iran.png)
-
-#### Anomaly Yearly Average Land Surface Temperature Respect to Long Term Average:
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/f6c0735804b906c01acc01152ed0ea47b223d6c8/Images/Anomaly%20Yearly%20Average%20Land%20Surface%20Temperature%20Respect%20to%20Long%20Term%20Average%20Iran.png)
-
-
-### Anomaly Average Air Temperature Respect to Average Yearly 1990: 
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/f6c0735804b906c01acc01152ed0ea47b223d6c8/Images/Anomaly%20Average%20Land%20Surface%20Temperature%20Respect%20to%20Average%20Yearly%201990%20Iran.png)
+### Anomaly Average Air Temperature Respect to Average Yearly 1980: 
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Anomaly%20Average%20Land%20Surface%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.png)
 
 ### Air Temperature Trend:
-![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/f6c0735804b906c01acc01152ed0ea47b223d6c8/Images/Trend%20Iran.png)
-
-
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Trend%20Italy.png)
 
 
 ## 📜 License

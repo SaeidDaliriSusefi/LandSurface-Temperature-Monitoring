@@ -27,7 +27,7 @@ This repository contains a Python-based workflow to analyze long-term land surfa
 ![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Anomaly%20Average%20Land%20Surface%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.png)
 
 ### Air Temperature Trend:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/87fb94333de266b7f5b5617aa30570cd1ad0db87/Images/Trend%20Italy%20Plot.png)
 
 
 ## 📜 License

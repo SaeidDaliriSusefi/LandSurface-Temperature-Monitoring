@@ -11,7 +11,7 @@ This repository contains a Python-based workflow to analyze long-term land surfa
 
 
 
-#### Trend Chart Annual Average Land Surface Temperature over the Italy:
+#### Annual Average Land Surface Temperature Trend Chart Over the Italy:
 ![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/52f581a9783815d214f24a1d46462c46aeee1a96/Images/Trend%20Chart%20Average%20Land%20Surface%20Temperature%20over%20the%20Italy.png)
 
 

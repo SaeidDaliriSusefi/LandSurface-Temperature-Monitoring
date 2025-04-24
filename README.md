@@ -7,11 +7,11 @@ This repository contains a Python-based workflow to analyze long-term land surfa
 ### Italy (1980-2024):
 
 #### Annual Average Land Surface Temperature:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/e11e4055b183f038e3311f577b746ea2791bd78f/Images/Yearly%20Average%20Land%20Surface%20Temperature%20Italy.gif)
 
 
 
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/e11e4055b183f038e3311f577b746ea2791bd78f/Images/Yearly%20Average%20Land%20Surface%20Temperature%20Italy.png)
 
 
 

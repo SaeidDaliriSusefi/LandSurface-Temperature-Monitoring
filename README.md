@@ -34,7 +34,7 @@ This repository contains a Python-based workflow to analyze long-term land surfa
 
 
 
-### Anomaly Annual Average Land Surface Temperature Respect to Average Annual 1980: 
+### Anomaly Annual Average Land Surface Temperature Respect to Annual Average 1980: 
 ![image alt](https://github.com/SaeidDaliriSusefi/LandSurfaceTemperature-Trend-Monitoring/blob/f72669a25c2c4007bba0fe7d3c9aacf932930816/Images/Anomaly%20Average%20Land%20Surface%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.gif)
 
 
